@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="12C60" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="PPGKeywords" representedClassName="PPGKeywords" syncable="YES">
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="keyword" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PPGName" representedClassName="PPGName" syncable="YES">
+        <attribute name="fullname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="shortname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="PPGKeywords" positionX="-1343" positionY="-945" width="128" height="90"/>
+        <element name="PPGName" positionX="-1523" positionY="-951" width="128" height="88"/>
+    </elements>
+</model>
